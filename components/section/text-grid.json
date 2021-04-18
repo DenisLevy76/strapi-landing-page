@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_section_text_grids",
+  "info": {
+    "name": "text-grid",
+    "icon": "braille"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "body": {
+      "type": "text",
+      "unique": false,
+      "required": true
+    }
+  }
+}
